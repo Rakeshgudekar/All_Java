@@ -1,4 +1,4 @@
-package Opps;
+package OOP;
 
 public class Opp1 {
     public static void main(String[] args) {
