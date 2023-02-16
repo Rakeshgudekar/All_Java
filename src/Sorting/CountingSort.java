@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class CountingSort {
     public static void main(String[] args) {
         int[] arr={1,4,1,3,2,3,4,7};
-        sort(arr);
+        sort(arr);          
     }
     static void sort(int[] arr){
         //counting max length
